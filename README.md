@@ -1,1 +1,1 @@
-A side project to see live weather detail of a place
+A perfect weather API based application for real-time weather information with additional functionalities
